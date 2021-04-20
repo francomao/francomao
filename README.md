@@ -1,13 +1,13 @@
-FrancoMAO 👋
-da Elen
-da Larissa
-da Audely
-de Thiago e Camila
-de Maria e Nilson
-Flamengo
-Garantido
-Tecnologia
-Solucionador de Problemas
+FrancoMAO 👋 <br>
+da Elen <br>
+da Larissa <br>
+da Audely <br>
+de Thiago e Camila <br>
+de Maria e Nilson <br>
+Flamengo <br>
+Garantido <br>
+Tecnologia <br>
+Solucionador de Problemas <br>
 
 <!---
 francomao/francomao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
